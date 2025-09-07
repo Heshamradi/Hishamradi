@@ -17,12 +17,31 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **ASP.NET Core Web APIs & Angular Apps**
-- 🌱 I’m currently learning **Cloud Computing (Azure) & Microservices**
-- 👯 I’m looking to collaborate on **Open Source .NET Projects**
-- 💬 Ask me about **C#, ASP.NET Core, Angular, SQL Server, Entity Framework**
-- 📫 How to reach me: **heshamelsaady329@gmail.com**
-- ⚡ Fun fact: I enjoy solving coding challenges & building scalable apps.
+class HishamRadiELSaadi {
+  string role = "Software Engineer | .NET Developer | Full Stack";
+  string language = "Arabic & English";
+  
+  List<string> skills = new List<string>() {
+    "ASP.NET Core MVC & Web API",
+    "Entity Framework Core",
+    "SQL Server & Firebase",
+    "JavaScript (ES6+), HTML, CSS",
+    "Bootstrap, Tailwind, Responsive Design",
+    "Git & GitHub",
+    "Clean Code & Best Practices",
+    "Flutter (Dart) - Built and deployed several mobile apps"
+  };
+  
+  List<string> flutterTools = new List<string>() {
+    "Dart",
+    "Flutter SDK",
+    "Provider / Riverpod",
+    "Bloc State Management",
+    "Firebase Integration",
+    "REST API Integration",
+    "Responsive UI for Android & iOS"
+  };
+}
 
 ---
 
