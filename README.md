@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="img/hesham.jpeg" alt="Hesham Radi El-Saady" width="200"/>
-</p>
+<div align="center" width="50">
 
-<h1 align="center">Hi 👋, I'm Hesham Radi El-Saady</h1>
-<h3 align="center">Full Stack .NET Developer | Problem Solver | Tech Enthusiast</h3>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+
+</div>
+
+<h1 align="center">Software Engineer | Full Stack .NET | .NET Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hisham-rady-2751b3373" target="_blank">
