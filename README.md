@@ -1,11 +1,12 @@
+<h1 align="center">Hisham Radi EL-Saadi</h1>
+<h3 align="center">Software Engineer | Full Stack .NET | .NET Developer</h3>
+
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 </div>
-
-<h1 align="center">Software Engineer | Full Stack .NET | .NET Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hisham-rady-2751b3373" target="_blank">
@@ -20,7 +21,7 @@
 - 🌱 I’m currently learning **Cloud Computing (Azure) & Microservices**
 - 👯 I’m looking to collaborate on **Open Source .NET Projects**
 - 💬 Ask me about **C#, ASP.NET Core, Angular, SQL Server, Entity Framework**
-- 📫 How to reach me: **yourmail@example.com**
+- 📫 How to reach me: **heshamelsaady329@gmail.com**
 - ⚡ Fun fact: I enjoy solving coding challenges & building scalable apps.
 
 ---
