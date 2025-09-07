@@ -17,6 +17,7 @@
 ---
 
 ### 👨‍💻 About Me
+```csharp
 class HishamRadiELSaadi {
   string role = "Software Engineer | .NET Developer | Full Stack";
   string language = "Arabic & English";
@@ -42,7 +43,6 @@ class HishamRadiELSaadi {
     "Responsive UI for Android & iOS"
   };
 }
-
 ---
 
 ### 🚀 Tech Stack
