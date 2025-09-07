@@ -8,24 +8,19 @@
 <p align="center">
 
   <!-- Email -->
-  <a href="mailto:heshamelsaady329@gmail.com" style="text-decoration:none;">
-    <span style="display:inline-flex; align-items:center; background:#d93025; color:white; padding:4px 8px; border-radius:5px; font-size:14px; font-weight:bold;">
-      <img src="https://img.shields.io/badge/-?style=flat&logo=gmail&logoColor=white&label=" alt="gmail" style="margin-right:6px;"/>
-      Hisham Elsaadi
-    </span>
+  <a href="mailto:heshamelsaady329@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hisham%20Elsaadi-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
   &nbsp;&nbsp;
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/hisham-rady-2751b3373" target="_blank" style="text-decoration:none;">
-    <span style="display:inline-flex; align-items:center; background:#0077b5; color:white; padding:4px 8px; border-radius:5px; font-size:14px; font-weight:bold;">
-      <img src="https://img.shields.io/badge/-?style=flat&logo=linkedin&logoColor=white&label=" alt="linkedin" style="margin-right:6px;"/>
-      Hisham Radi
-    </span>
+  <a href="https://www.linkedin.com/in/hisham-rady-2751b3373" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hisham%20Radi-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
 </p>
+
 
 
 ---
