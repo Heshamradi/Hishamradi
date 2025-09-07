@@ -17,6 +17,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hishamradi&style=flat&color=orange&label=PROFILE+VIEWS"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
