@@ -62,12 +62,11 @@ class HishamRadiELSaadi {
 </p>
 
 **Databases:**  
-<p align="center">
+<p >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="50" height="50"/><br>
-  <sub>SQL Server</sub>
-</p>
-<p>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+ 
+
 </p>
 
 **Tools & Platforms:**  
