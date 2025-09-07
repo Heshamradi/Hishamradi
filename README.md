@@ -43,6 +43,7 @@ class HishamRadiELSaadi {
     "Responsive UI for Android & iOS"
   };
 }
+```
 ---
 
 ### 🚀 Tech Stack
