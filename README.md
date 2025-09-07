@@ -46,7 +46,7 @@ class HishamRadiELSaadi {
 ```
 ---
 
-### 🚀 Tech Stack
+
 ### 🚀 Tech Stack
 
 **Languages & Frameworks:**  
