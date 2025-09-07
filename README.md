@@ -1,9 +1,9 @@
-<h1 align="center">Hisham Radi EL-Saadi</h1>
+<h1 align="center">Hi I'M Hisham Radi EL-Saadi</h1>
 <h3 align="center">Software Engineer | Full Stack .NET | .NET Developer</h3>
 
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 </div>
@@ -63,7 +63,7 @@ class HishamRadiELSaadi {
 
 **Databases:**  
 <p >
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="50" height="50"/><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
  
 
