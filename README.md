@@ -11,8 +11,7 @@
   <a href="mailto:heshamelsaady329@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hisham%20Elsaadi-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
-
-  &nbsp;&nbsp;
+  <br><br>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hisham-rady-2751b3373" target="_blank">
@@ -20,7 +19,6 @@
   </a>
 
 </p>
-
 
 
 
