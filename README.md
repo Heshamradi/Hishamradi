@@ -2,25 +2,30 @@
 <h3 align="center">Software Engineer | Full Stack .NET | .NET Developer</h3>
 
 <div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/> 
-
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/> 
 </div>
 
 <p align="center">
+
+  <!-- Email -->
   <a href="mailto:heshamelsaady329@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"/>
-    <span style="font-size:14px; color:#d93025; font-weight:bold;">Hisham Elsaadi</span>
+    <span style="display:inline-flex; align-items:center; background:#d93025; color:white; padding:4px 8px; border-radius:5px; font-size:14px; font-weight:bold;">
+      <img src="https://img.shields.io/badge/-?style=flat&logo=gmail&logoColor=white&label=" alt="gmail" style="margin-right:6px;"/>
+      Hisham Elsaadi
+    </span>
   </a>
-</p>
 
-<p align="center">
+  &nbsp;&nbsp;
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hisham-rady-2751b3373" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-    <span style="font-size:14px; color:#0077b5; font-weight:bold;">Hisham Radi</span>
+    <span style="display:inline-flex; align-items:center; background:#0077b5; color:white; padding:4px 8px; border-radius:5px; font-size:14px; font-weight:bold;">
+      <img src="https://img.shields.io/badge/-?style=flat&logo=linkedin&logoColor=white&label=" alt="linkedin" style="margin-right:6px;"/>
+      Hisham Radi
+    </span>
   </a>
-</p>
 
+</p>
 
 
 ---
