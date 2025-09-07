@@ -8,18 +8,19 @@
 </div>
 
 <p align="center">
-  <a href="mailto:heshamelsaady329@gmail.com">
+  <a href="mailto:heshamelsaady329@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"/>
+    <span style="font-size:14px; color:#d93025; font-weight:bold;">Hisham Elsaadi</span>
   </a>
-  <sub>Hisham Elsaadi</sub>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hisham-rady-2751b3373" target="_blank">
+  <a href="https://www.linkedin.com/in/hisham-rady-2751b3373" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+    <span style="font-size:14px; color:#0077b5; font-weight:bold;">Hisham Radi</span>
   </a>
-  <sub>Hisham Radi</sub>
 </p>
+
 
 
 ---
