@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hisham-rady-2751b3373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a><br>
+  </a>
   <sub>Hisham Radi</sub>
 </p>
 
