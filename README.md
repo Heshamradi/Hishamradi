@@ -3,16 +3,24 @@
 
 <div align="center" width="50">
 
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 </div>
 
 <p align="center">
+  <a href="mailto:heshamelsaady329@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"/>
+  </a><br>
+  <sub>Hisham Elsaadi</sub>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/hisham-rady-2751b3373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+  </a><br>
+  <sub>Hisham Radi</sub>
 </p>
+
 
 ---
 
